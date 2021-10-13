@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/poke-app/static/css/main.344263fb.chunk.css",
+    "main.js": "/poke-app/static/js/main.c6001b4a.chunk.js",
+    "main.js.map": "/poke-app/static/js/main.c6001b4a.chunk.js.map",
+    "runtime-main.js": "/poke-app/static/js/runtime-main.c8429194.js",
+    "runtime-main.js.map": "/poke-app/static/js/runtime-main.c8429194.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/poke-app/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.d0a1c134.chunk.js": "/poke-app/static/js/2.d0a1c134.chunk.js",
+    "static/js/2.d0a1c134.chunk.js.map": "/poke-app/static/js/2.d0a1c134.chunk.js.map",
+    "static/js/3.5ba04e69.chunk.js": "/poke-app/static/js/3.5ba04e69.chunk.js",
+    "static/js/3.5ba04e69.chunk.js.map": "/poke-app/static/js/3.5ba04e69.chunk.js.map",
+    "index.html": "/poke-app/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/poke-app/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.344263fb.chunk.css.map": "/poke-app/static/css/main.344263fb.chunk.css.map",
+    "static/js/2.d0a1c134.chunk.js.LICENSE.txt": "/poke-app/static/js/2.d0a1c134.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8429194.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.d0a1c134.chunk.js",
+    "static/css/main.344263fb.chunk.css",
+    "static/js/main.c6001b4a.chunk.js"
+  ]
+}
